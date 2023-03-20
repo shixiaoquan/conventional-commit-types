@@ -1,31 +1,31 @@
 {
   "$schema": "./index.spec.json",
   "types": {
-    "feat": {
+    "✨feat": {
       "description": "A new feature",
       "title": "Features"
     },
-    "fix": {
+    "🐛fix": {
       "description": "A bug fix",
       "title": "Bug Fixes"
     },
-    "docs": {
+    "📝docs": {
       "description": "Documentation only changes",
       "title": "Documentation"
     },
-    "style": {
+    "🎨style": {
       "description": "Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)",
       "title": "Styles"
     },
-    "refactor": {
+    "♻️refactor": {
       "description": "A code change that neither fixes a bug nor adds a feature",
       "title": "Code Refactoring"
     },
-    "perf": {
+    "⚡️perf": {
       "description": "A code change that improves performance",
       "title": "Performance Improvements"
     },
-    "test": {
+    "🧪test": {
       "description": "Adding missing tests or correcting existing tests",
       "title": "Tests"
     },
@@ -33,15 +33,15 @@
       "description": "Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)",
       "title": "Builds"
     },
-    "ci": {
+    "👷‍♀️ci": {
       "description": "Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)",
       "title": "Continuous Integrations"
     },
-    "chore": {
+    "🐼chore": {
       "description": "Other changes that don't modify src or test files",
       "title": "Chores"
     },
-    "revert": {
+    "⏮️revert": {
       "description": "Reverts a previous commit",
       "title": "Reverts"
     }
